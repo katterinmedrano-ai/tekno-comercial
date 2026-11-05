@@ -1,0 +1,242 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="ZCuztvPNVI-zshFMFKyL">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-3" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fontSize=17;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="INICIO" vertex="1">
+          <mxGeometry height="50" width="80" x="280" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-5" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontSize=17;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="Ingresar al módulo de productos&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="140" x="250" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-7" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontSize=17;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="Seleccionar y registrar producto&amp;nbsp;" vertex="1">
+          <mxGeometry height="60" width="150" x="245" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontSize=18;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="Ingresar código, nombre, categoría, precio, existencia y stock minimo" vertex="1">
+          <mxGeometry height="100" width="260" x="190" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-16" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=0;exitY=1;exitDx=0;exitDy=0;flowAnimation=1;strokeColor=#23445D;fontColor=default;">
+          <mxGeometry relative="1" x="-0.0708" as="geometry">
+            <Array as="points">
+              <mxPoint x="732.5" y="398.3" />
+              <mxPoint x="40" y="398.3" />
+            </Array>
+            <mxPoint x="731.8700000000001" y="360" as="sourcePoint" />
+            <mxPoint x="40" y="518.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-18" connectable="0" parent="pgpDLiaiNFWd6zZaw9yT-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=17;fontColor=#FFFFFF;" value="No&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.8175" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-12" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-8" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-6" value="">
+          <mxGeometry height="50" relative="1" width="50" x="-0.531" as="geometry">
+            <Array as="points">
+              <mxPoint x="-80" y="319" />
+              <mxPoint x="-80" y="680" />
+              <mxPoint x="-80" y="1000" />
+              <mxPoint x="120" y="1000" />
+              <mxPoint x="120" y="1080" />
+            </Array>
+            <mxPoint x="664" y="334" as="sourcePoint" />
+            <mxPoint x="120" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-36" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-6">
+          <mxGeometry relative="1" x="0.0345" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="860" />
+              <mxPoint x="220" y="860" />
+              <mxPoint x="220" y="1000" />
+              <mxPoint x="255" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Mostrar error código duplicado&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="80" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-19" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-6">
+          <mxGeometry relative="1" x="-0.4035" as="geometry">
+            <Array as="points">
+              <mxPoint x="5" y="960" />
+              <mxPoint x="194.4" y="960" />
+            </Array>
+            <mxPoint x="4.52" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=40;fontSize=17;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="Mostrar mensaje de error" vertex="1">
+          <mxGeometry height="50" width="140" x="-30" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-31" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="840" y="357.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-32" connectable="0" parent="pgpDLiaiNFWd6zZaw9yT-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=17;fontColor=#FFFFFF;" value="Si" vertex="1">
+          <mxGeometry relative="1" x="-0.1136" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontSize=17;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;gradientColor=light-dark(#62BABA,#006666CC);" value="¿Los campos están completos y tienen formato valido?" vertex="1">
+          <mxGeometry height="170" width="210" x="680" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-33" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-13">
+          <mxGeometry relative="1" x="0.0016" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-35" connectable="0" parent="pgpDLiaiNFWd6zZaw9yT-33" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=17;fontColor=#FFFFFF;" value="Si" vertex="1">
+          <mxGeometry relative="1" x="0.8194" y="-5" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-43" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.785;exitY=0.719;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitPerimeter=0;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-44" connectable="0" parent="pgpDLiaiNFWd6zZaw9yT-43" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=17;fontColor=#FFFFFF;" value="Si" vertex="1">
+          <mxGeometry relative="1" x="-0.0217" y="-1" as="geometry">
+            <mxPoint x="-1" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-29" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontSize=17;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;gradientColor=light-dark(#62BABA,#006666CC);" value="¿El código ya existe?" vertex="1">
+          <mxGeometry height="110" width="140" x="770" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-40" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="725" />
+              <mxPoint x="510" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-41" connectable="0" parent="pgpDLiaiNFWd6zZaw9yT-40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=19;fontColor=#FFFFFF;" value="No" vertex="1">
+          <mxGeometry relative="1" x="0.7429" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-46" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-55" connectable="0" parent="pgpDLiaiNFWd6zZaw9yT-46" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=17;fontColor=#FFFFFF;" value="Si" vertex="1">
+          <mxGeometry relative="1" x="-0.2444" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-37" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontSize=17;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;gradientColor=light-dark(#006666,#006666CC);" value="¿El precio es mayor a 0?" vertex="1">
+          <mxGeometry height="110" width="140" x="810" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-42" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.649;entryY=0.015;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-6">
+          <mxGeometry relative="1" x="-0.1664" as="geometry">
+            <Array as="points">
+              <mxPoint x="500" y="820" />
+              <mxPoint x="500" y="970" />
+              <mxPoint x="359.9" y="970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Mostrar error de precio&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="430" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-53" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-54" connectable="0" parent="pgpDLiaiNFWd6zZaw9yT-53" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=17;fontColor=#FFFFFF;" value="No" vertex="1">
+          <mxGeometry relative="1" x="0.0129" y="2" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-57" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-58" connectable="0" parent="pgpDLiaiNFWd6zZaw9yT-57" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=17;fontColor=#FFFFFF;" value="Si" vertex="1">
+          <mxGeometry relative="1" x="-0.161" y="3" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-45" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontSize=17;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;gradientColor=light-dark(#62BABA,#006666CC);" value="¿Existencia y stock mínimo son validos?" vertex="1">
+          <mxGeometry height="140" width="170" x="795" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-49" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.731;entryY=0.1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-6">
+          <mxGeometry relative="1" x="-0.1663" as="geometry">
+            <Array as="points">
+              <mxPoint x="595" y="1000" />
+              <mxPoint x="395.1" y="1000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Mostrar error de cantidades&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="520" y="930" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-60" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-59" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Asignar estado ACTIVO&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="805" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-62" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-61" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-59" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="Guardar productos en productos.json&amp;nbsp;" vertex="1">
+          <mxGeometry height="70" width="150" x="805" y="1169" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-64" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-71">
+          <mxGeometry relative="1" x="0.0537" as="geometry">
+            <mxPoint x="1060" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-67" connectable="0" parent="pgpDLiaiNFWd6zZaw9yT-64" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=17;fontColor=#FFFFFF;" value="Si" vertex="1">
+          <mxGeometry relative="1" x="0.5415" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-65" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-68">
+          <mxGeometry relative="1" x="0.0537" as="geometry">
+            <mxPoint x="700" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-66" connectable="0" parent="pgpDLiaiNFWd6zZaw9yT-65" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;defaultLabelBackgroundColor=page;fontSize=17;fontColor=#FFFFFF;" value="No&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.4927" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-61" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontSize=17;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;gradientColor=light-dark(#62BABA,#006666CC);" value="¿Se guardó correctamente?" vertex="1">
+          <mxGeometry height="140" width="170" x="795" y="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-74" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Mostrar error de almacenamiento&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="630" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-75" edge="1" parent="1" source="pgpDLiaiNFWd6zZaw9yT-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;flowAnimation=1;strokeColor=#23445D;fontColor=default;" target="pgpDLiaiNFWd6zZaw9yT-73">
+          <mxGeometry relative="1" x="0.0356" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="1570" />
+              <mxPoint x="1060" y="1690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-71" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Mostrar confirmación de registro&amp;nbsp;&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="980" y="1510" as="geometry" />
+        </mxCell>
+        <mxCell id="pgpDLiaiNFWd6zZaw9yT-73" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fontSize=21;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" value="FIN" vertex="1">
+          <mxGeometry height="40" width="77" x="841.5" y="1670" as="geometry" />
+        </mxCell>
+        <mxCell id="J2I6JcBQ0AWyHZHhBpME-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#666600,#4D4D4D);fontSize=66;fontFamily=Times New Roman;textShadow=1;" value="&lt;div&gt;REGISTRO DE PRODUCTOS&lt;/div&gt;" vertex="1">
+          <mxGeometry height="350" width="620" x="-760" y="320" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

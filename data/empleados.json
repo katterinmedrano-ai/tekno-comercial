@@ -1,0 +1,26 @@
+[
+    {
+        "codigo": "EMP001",
+        "nombre": "José",
+        "salario": 3900.0,
+        "estado": "activo"
+    },
+    {
+        "codigo": "ENF001",
+        "nombre": "Manuel",
+        "salario": 4200.0,
+        "estado": "activo"
+    },
+    {
+        "codigo": "Ssw54",
+        "nombre": "Patricia",
+        "salario": 254.0,
+        "estado": "activo"
+    },
+    {
+        "codigo": "EMP002",
+        "nombre": "Carlos",
+        "salario": 3800.0,
+        "estado": "activo"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "codigo": "PROD001",
+        "nombre": "Teclado Gamer",
+        "categoria": "Tecnología",
+        "precio": 200.0,
+        "existencias": 20,
+        "existencia_minima": 8,
+        "estado": "activo"
+    },
+    {
+        "codigo": "PROD002",
+        "nombre": "Mouse",
+        "categoria": "Accesorios",
+        "precio": 100.0,
+        "existencias": 15,
+        "existencia_minima": 3,
+        "estado": "activo"
+    },
+    {
+        "codigo": "PROD003",
+        "nombre": "Monitor LED",
+        "categoria": "Tecnología",
+        "precio": 900.0,
+        "existencias": 10,
+        "existencia_minima": 3,
+        "estado": "inactivo"
+    }
+]

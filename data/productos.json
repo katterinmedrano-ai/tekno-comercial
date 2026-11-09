@@ -4,7 +4,7 @@
         "nombre": "Teclado Gamer",
         "categoria": "Tecnología",
         "precio": 200.0,
-        "existencias": 20,
+        "existencias": 21,
         "existencia_minima": 8,
         "estado": "activo"
     },

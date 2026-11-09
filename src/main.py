@@ -71,7 +71,7 @@ def menu_principal():
 
         print("\n===================================")
         print("          TEKNO COMERCIAL")
-        print("===================================")
+        print("=====================================")
         print("1. Gestión de empleados")
         print("2. Gestión de productos")
         print("3. Gestión de inventario")

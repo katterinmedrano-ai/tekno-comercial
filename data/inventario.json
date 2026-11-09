@@ -1,1 +1,16 @@
-[]
+[
+    {
+        "fecha": "2026-11-09 15:50:57",
+        "codigo_producto": "PROD001",
+        "tipo": "entrada",
+        "cantidad": 2,
+        "descripcion": "Entrada manual de productos"
+    },
+    {
+        "fecha": "2026-11-09 16:01:40",
+        "codigo_producto": "PROD001",
+        "tipo": "salida",
+        "cantidad": 1,
+        "descripcion": "Salida por venta V001"
+    }
+]

@@ -1,1 +1,19 @@
-[]
+[
+    {
+        "numero": "V001",
+        "fecha": "2026-11-09 16:01:40",
+        "detalles": [
+            {
+                "codigo": "PROD001",
+                "nombre": "Teclado Gamer",
+                "precio": 200.0,
+                "cantidad": 1,
+                "subtotal": 200.0
+            }
+        ],
+        "subtotal": 200.0,
+        "iva": 24.0,
+        "total": 224.0,
+        "estado": "confirmada"
+    }
+]
